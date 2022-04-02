@@ -38,7 +38,7 @@ Download ZIP
 
 In CMD: cd dogecoin-bruteforce
 
-$ pip install -r requirements.txt
+In CMD: pip install -r requirements.txt
 ```
 
 # Quick Start
