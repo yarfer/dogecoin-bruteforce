@@ -43,13 +43,13 @@ In CMD: pip install -r requirements.txt
 
 # Quick Start
 
+  Linux
 ```
-Linux
 $ python3 main.py
+```
 
-
-
-Windows
+  Windows
+```
 Run start.bat
 ```
 
